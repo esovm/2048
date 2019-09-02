@@ -9,3 +9,7 @@ This might be a tricky part, because naive Haskell interpreter will take ages up
 ## System requirements
 
 1GB of RAM, i9-9900 should be sufficient to run at sixteenth part a frame per second.
+
+## Benchmarks?
+
+Your benchmark could go here!
